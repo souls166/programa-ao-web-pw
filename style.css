@@ -16,7 +16,7 @@ body {
   width: 400px;
 }
 
-/* Título monocromático com efeito hover */
+/* Título monocromático */
 h1 {
   color: #4a1769;
   transition: color 0.3s ease;
